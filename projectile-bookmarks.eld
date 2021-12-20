@@ -1,0 +1,1 @@
+("~/hiyori1220/" "~/hiyori/" "~/.emacs.d/" "~/" "~/code/emacs/emacs.d/" "~/code/backend/hiyori/" "~/code/backend/ocrNew/" "~/code/backend/")
